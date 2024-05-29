@@ -13,7 +13,7 @@ Admin Panel: Admin dashboard for managing products, orders, and users.
 
 Technologies Used:
 
-Frontend: React.js, Redux, HTML, CSS, Bootstrap
+Frontend: React.js, Redux, HTML, CSS,Tailwind
 Backend: Node.js, Express.js
 Database: MongoDB
 Authentication: JSON Web Tokens (JWT)
