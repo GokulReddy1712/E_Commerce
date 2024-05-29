@@ -1,4 +1,5 @@
 E-Commerce Website
+
 Introduction
 This project is an E-Commerce website developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It aims to provide a comprehensive platform for buying and selling goods online. The website is designed to be user-friendly, with intuitive navigation and a responsive interface.
 
