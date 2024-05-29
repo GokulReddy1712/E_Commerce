@@ -6,7 +6,6 @@ This project is an E-Commerce website developed using the MERN (MongoDB, Express
 
 ## Features
 
-- **User Authentication**: Secure user registration and login functionality.
 - **Product Catalog**: Browse through a wide range of products organized into categories.
 - **Search Functionality**: Search for specific products by name or category.
 - **Shopping Cart**: Add items to your cart for later purchase.
@@ -16,15 +15,14 @@ This project is an E-Commerce website developed using the MERN (MongoDB, Express
 
 ## Technologies Used
 
-- **Frontend**: React.js, Redux, HTML, CSS, Bootstrap
+- **Frontend**: React.js, Redux, HTML, CSS, Tailwind
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JSON Web Tokens (JWT)
-- **Payment Integration**: [Payment Gateway Name]
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/e-commerce-website.git`
+1. Clone the repository: `git clone https://github.com/GokulReddy1712/e-commerce-website.git`
 2. Navigate to the project directory: `cd e-commerce-website`
 3. Install dependencies:
    - Backend: `npm install`
